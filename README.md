@@ -4,3 +4,4 @@
 <br/>
 <h3>E foram utilizadas as tecnologias - HTML, CSS e Javascript. Dentro do javascript, utilizei uma função que busca em tempo real o câmbio das moedas disponíveis no conversor através de uma API.</h3>
 <br/>
+<img src="https://github.com/LucianoGRocha/Conversor-de-moedas/blob/main/assets/conversor%20de%20moedas.png?raw=true"/>
